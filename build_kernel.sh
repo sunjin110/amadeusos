@@ -1,5 +1,7 @@
 #!/bin/bash
 
+echo "--- kernel build start ---"
+
 source $HOME/osbook/devenv/buildenv.sh
 
 cd kernel
